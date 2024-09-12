@@ -1,6 +1,6 @@
 # Make It Real - 404 Not Found Page
 
-Solución al proyecto de página 404(no encontrada)-Make It Real.
+Solution to the project of page 404 (not found)-Make It Real.
 
 ## Table of contents
 
